@@ -1,0 +1,31 @@
+body{
+    /* background-image: url(./assets/E9pDYSSWYAcloGe.jpeg);
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     
+     color: chocolate; */
+     background-color: teal;
+     text-align: center;
+     font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    font-size: 60px;
+}
+
+#kanye{
+    border-radius: 100%;
+    background-color: chocolate;
+    height: 200px;
+    width: 200px;
+}
+
+#kanye:hover{
+   height: 220px;
+   width: 220px; 
+   border-color: blue;
+}
+p{
+    margin-top: 6rem;
+}
